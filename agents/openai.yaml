@@ -1,0 +1,4 @@
+interface:
+  display_name: "个人工作系统初始化"
+  short_description: "通过访谈、轻量根规则和真实材料验证建立可接续的个人协作空间。"
+  default_prompt: "使用 $personal-work-os-bootstrap，先了解我的需要，再建立轻量个人工作系统并验证真实材料闭环。"
